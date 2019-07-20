@@ -1,0 +1,14 @@
+.log-in {
+	width: 38rem;
+	display: flex;
+	flex-direction: column;
+
+	.title {
+		margin: 2rem 0;
+	}
+
+	.buttons {
+		display: flex;
+		justify-content: space-between;
+	}
+}
