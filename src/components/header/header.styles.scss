@@ -4,11 +4,13 @@
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 2.5rem;
+	background-color: rgb(241, 235, 142);
 
 	.logo-container {
 		height: 100%;
 		width: 7rem;
-		padding: 2.5rem;
+		padding: 1.5rem;
+		margin-bottom: 2rem;
 	}
 
 	.options {
